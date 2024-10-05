@@ -1,0 +1,30 @@
+{
+  "name": "orca1.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BALSINYOURMOUTH/ORCA1.1.git"
+  },
+  "keywords": [
+    "(clothing",
+    "e-commerce",
+    "online",
+    "store",
+    "orca-brand",
+    "fashion)"
+  ],
+  "author": "olaksura <laksuraosanda@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BALSINYOURMOUTH/ORCA1.1/issues"
+  },
+  "homepage": "https://github.com/BALSINYOURMOUTH/ORCA1.1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
