@@ -1,7 +1,3 @@
-Sure! Here's a simple yet clear **README.md** file for your project, explaining how to set everything up:
-
----
-
 ## ORCA Website
 
 This repository contains the codebase for the **ORCA** clothing brand website, built using **Node.js**, **Express**, and some custom JavaScript and CSS files. The project includes a functional shop page, cart, and other essential features.
@@ -87,7 +83,3 @@ orca-website/
 
 - **Node Modules**: The `node_modules` directory is excluded from version control. Make sure to run `npm install` to restore the necessary packages.
 - **Environment Variables**: Make sure you have a `.env` file in the root directory for any sensitive configuration settings like API keys or database credentials.
-
----
-
-That should cover everything your team members need to get started with the project! Let me know if you want any changes or additions.
