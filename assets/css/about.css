@@ -1,0 +1,55 @@
+/* I'LL ADD MORE STYLES AS WE ADD SOMETHING USEFULL TO THIS PAGE*/
+
+.tempCont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    background-color: #f0f0f0;
+}
+
+.WIP {
+    width: 700px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    border: 10px solid transparent;
+    box-sizing: border-box;
+    animation: move-border 5s linear infinite;
+    background: repeating-linear-gradient(
+        45deg,
+        yellow,
+        yellow 10px,
+        black 10px,
+        black 20px
+    );
+    background-size: 200% 200%;
+}
+
+@keyframes move-border {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+.highLightHeader {
+    font-size: 100px;
+    text-align: center;
+    color: red;
+}
+
+.highLight {
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+
+.main-footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100vw;
+}

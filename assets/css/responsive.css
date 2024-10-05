@@ -1,0 +1,39 @@
+/* Responsive CSS for Orca Clothing website */
+
+@media only screen and (max-width: 768px) {
+    .main-nav ul {
+        display: none;
+    }
+
+    .nav-toggle {
+        display: block;
+    }
+
+    .main-nav.active ul {
+        display: block;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background-color: #000;
+        width: 100%;
+    }
+
+    .product-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .contact-form, .faq-item, .blog-post {
+        padding: 0 15px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .main-header .container {
+        flex-direction: column;
+    }
+
+    .logo img {
+        width: 150px;
+    }
+}
