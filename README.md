@@ -24,7 +24,7 @@ Before you can run the project, make sure you have the following installed on yo
    Once the repo is cloned, navigate to the root project directory:
 
    ```bash
-   cd orca-website
+   cd ORCA1.1
    ```
 
 3. **Install Dependencies**
