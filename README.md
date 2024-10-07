@@ -16,7 +16,7 @@ Before you can run the project, make sure you have the following installed on yo
    First, clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/BALSINYOURMOUTH/ORCA1.1.git>
    ```
 
 2. **Navigate to the Project Directory**
